@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T03:10:35.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Qd1DDUvXzmDOBgjZ8lcW" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-19T04:10:27.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ZMIH40yiLVXLbRfcxH07" version="23.1.5" type="github">
   <diagram name="페이지-1" id="oFjI-VtVijSwnQP9Oj09">
-    <mxGraphModel dx="1512" dy="1586" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2474" dy="1538" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UUrBGZe9qP8EfEttSlcd-11" value="입양" style="rounded=1;whiteSpace=wrap;html=1;" parent="UUrBGZe9qP8EfEttSlcd-5" vertex="1">
-          <mxGeometry x="360" y="36" width="120" height="60" as="geometry" />
+          <mxGeometry x="348" y="36" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UUrBGZe9qP8EfEttSlcd-13" value="댓글 작성" style="rounded=1;whiteSpace=wrap;html=1;" parent="UUrBGZe9qP8EfEttSlcd-5" vertex="1">
           <mxGeometry x="193" y="148" width="120" height="60" as="geometry" />
@@ -53,10 +53,10 @@
           <mxGeometry x="19" y="143" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UUrBGZe9qP8EfEttSlcd-36" value="회원 가입, 로그인" style="rounded=1;whiteSpace=wrap;html=1;" parent="UUrBGZe9qP8EfEttSlcd-5" vertex="1">
-          <mxGeometry x="360" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="494" y="146" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UUrBGZe9qP8EfEttSlcd-37" value="예약 상담 페이지&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="UUrBGZe9qP8EfEttSlcd-5" vertex="1">
-          <mxGeometry x="362" y="143" width="120" height="60" as="geometry" />
+          <mxGeometry x="348" y="148" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UUrBGZe9qP8EfEttSlcd-40" value="마이페이지&lt;br&gt;(관리자 페이지)" style="rounded=1;whiteSpace=wrap;html=1;" parent="UUrBGZe9qP8EfEttSlcd-5" vertex="1">
           <mxGeometry x="490" y="36" width="120" height="60" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="200" y="38" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UUrBGZe9qP8EfEttSlcd-19" value="입양 신청 내역 조회" style="rounded=1;whiteSpace=wrap;html=1;" parent="UUrBGZe9qP8EfEttSlcd-8" vertex="1">
-          <mxGeometry x="382" y="35" width="120" height="60" as="geometry" />
+          <mxGeometry x="378" y="38" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UUrBGZe9qP8EfEttSlcd-29" value="후원 신청 내역 조회" style="rounded=1;whiteSpace=wrap;html=1;" parent="UUrBGZe9qP8EfEttSlcd-8" vertex="1">
           <mxGeometry x="17" y="152" width="120" height="60" as="geometry" />
